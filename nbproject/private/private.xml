@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Principal.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionAccionista.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/ReporteGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/GallinaGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaReporteAlimentacion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/IngresoGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/CajaGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionVenta.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionDueño.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/EgresoGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Dueño.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/ProduccionGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionInventario.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Persona.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/AlimentacionGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Venta.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionEgreso.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Persistencia/DatosAccionistas.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaMenuVenta.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Interfaces/IGestionMovimientoCaja.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaMenuAccionistas.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Ingreso.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaLogin.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Accionista.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/DueñoGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/VariablesGlobales.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Interfaces/IReportes.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionProduccion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/InventarioGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/MovimientoCaja.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Interfaces/IGestionAccionistas.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionCaja.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Interfaces/IGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/GranjaGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionAlimentacion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/AccionistaGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionGallina.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionGranja.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Gestion/VentaGestion.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Modelo/Cuenta.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/Mockup/Ventanas/VistaGestionIngreso.java</file>
+            <file>file:/C:/Users/braya/Downloads/proyecto-aula-granja-master/src/UML/Diagrama.jpg</file>
+        </group>
+    </open-files>
+</project-private>
